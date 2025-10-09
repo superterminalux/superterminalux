@@ -24,6 +24,8 @@
 
 ![TerminaLux's GitHub stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=radical)
 
+---
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=superterminalux&theme=dracula)
 
 
