@@ -14,7 +14,7 @@ readme .md
 - 📈 Active **trader**, also improving my analytical and financial skills.  
 - 🏊‍♂️ I enjoy sports, especially **swimming**.  
 
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/<superterminalux>)
+-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/superterminalux)
 
 ---
 
