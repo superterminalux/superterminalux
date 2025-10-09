@@ -26,11 +26,6 @@
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=superterminalux&theme=dracula)
-
-
-
-
 > “Vision without execution is just hallucination.
 ― **Henry Ford**” 🌱
 
