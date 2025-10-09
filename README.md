@@ -22,6 +22,10 @@
 
 ---
 
+![TerminaLux's GitHub stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=radical)
+
+
+
 > “Vision without execution is just hallucination.
 ― **Henry Ford**” 🌱
 
