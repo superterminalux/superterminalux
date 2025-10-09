@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi there 👋 
 🎓 I'm a **1st-year Software Engineering student** at **UTAA (University of Turkish Aeronautical Association)**.  
 - I’m currently learning and growing in **Cybersecurity** and **Blockchain**.  
