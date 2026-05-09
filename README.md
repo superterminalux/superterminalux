@@ -23,7 +23,7 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 ---
 
 ### 📈 GitHub Metrics
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=dark&hide_border=true&bg_color=0D1117) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=dark&hide_border=true&bg_color=0D1117) |
 | :--- | :--- |
 
 ---
