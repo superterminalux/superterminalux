@@ -23,7 +23,7 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 ---
 
 ### 📈 GitHub Metrics
-| ![Stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=dark&hide_border=true&bg_color=0D1117) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=dark&hide_border=true&bg_color=0D1117) |
 | :--- | :--- |
 
 ---
