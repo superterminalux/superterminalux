@@ -32,10 +32,7 @@ Outside of software development, I apply engineering principles to financial mar
 
 ---
 
-### 📈 GitHub Metrics
-![superterminalux's GitHub stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
