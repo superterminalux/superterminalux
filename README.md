@@ -6,7 +6,15 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 - **Foundations:** **C** (Memory safety, pointer logic) and **Network Security** analysis.
 - **Operating Systems:** Experienced in **Linux (Kali, Ubuntu)** environments and CLI-based workflows.
 - **Current Stack:** Accelerating **Java** proficiency through algorithmic challenges and OOP principles.
-- **Market Analysis:** Specialized in **Quantitative Technical Analysis**, focusing on **Price Action** and **Institutional Order Flow (SMC)**. I approach markets through the lens of data structures and liquidity patterns.
+
+---
+
+### 📉 Systematic Market Analysis
+Outside of software development, I apply engineering principles to financial markets. I do not approach trading as a game, but as a **complex data system** that requires discipline and high-level risk management.
+
+*   **Methodology:** Specialized in **Price Action** and **Institutional Order Flow (SMC)**. 
+*   **Focus:** Analyzing market microstructure to identify supply/demand imbalances and liquidity patterns.
+*   **Objective:** Developing a systematic approach to understand price delivery and executing high-probability setups with strict risk parameters.
 
 ---
 
@@ -19,7 +27,6 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -34,9 +41,8 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 
 ### 🔍 Beyond the IDE
 I prioritize high-discipline activities that sharpen my analytical decision-making:
-*   **Strategic Trading:** Researching **Institutional Flow** and **Market Microstructure**. I treat price delivery as a complex system of liquidity and supply/demand imbalances.
-*   **Swimming:** Focus on endurance training and physical discipline.
-*   **Literature:** Strategic reading across technical, philosophical, and multi-disciplinary domains.
+*   **Swimming:** Physical endurance and mental discipline.
+*   **Strategic Reading:** Expanding knowledge in technical, philosophical, and financial domains.
 
 ---
 *“How long should you try? Until.”*  
