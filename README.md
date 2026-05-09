@@ -23,9 +23,9 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 ---
 
 ### 📈 GitHub Metrics
-| ![Stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=dark&hide_border=true&bg_color=0D1117) |
-| :--- | :--- |
+![superterminalux's GitHub stats](https://github-readme-stats.vercel.app/api?username=superterminalux&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superterminalux&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 🔍 Beyond the IDE
@@ -35,4 +35,5 @@ I prioritize high-discipline activities that sharpen my analytical decision-maki
 *   **Literature:** Expanding vision through technical, philosophical, and multi-disciplinary literature.
 
 ---
-*“Precision in logic, discipline in execution.”*
+*“How long should you try? Until.
+― Jim Rohn”*
