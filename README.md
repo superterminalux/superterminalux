@@ -12,7 +12,7 @@ Analytical-driven **Software Engineering Undergraduate** with a foundational bac
 ### 📉 Systematic Market Analysis
 Outside of software development, I apply engineering principles to financial markets. I do not approach trading as a game, but as a **complex data system** that requires discipline and high-level risk management.
 
-*   **Methodology:** Specialized in **Price Action** and **Institutional Order Flow (SMC)**. 
+*   **Methodology:** Specialized in **Price Action** and **Institutional Approach (SMC)**. 
 *   **Focus:** Analyzing market microstructure to identify supply/demand imbalances and liquidity patterns.
 *   **Objective:** Developing a systematic approach to understand price delivery and executing high-probability setups with strict risk parameters.
 
