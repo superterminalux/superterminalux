@@ -19,7 +19,7 @@ Outside of software development, I apply engineering principles to financial mar
 ---
 
 ### 📊 Java Mastery Journey
-![Java Progress](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff8c00&successColor=006400)
+![Java Progress](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff8c00&successColor=006400)
 *Current Phase: Logic Refinement & Warmup-1*
 
 ### 💻 Technologies & Tools
